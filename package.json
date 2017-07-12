@@ -1,0 +1,29 @@
+{
+  "name": "mzlp-builder",
+  "main": "./lib/mzlp-builder",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+    "mzlp-builder:tableBuilder",
+    "mzlp-builder:indexDBBuilder",
+    "mzlp-builder:lexDBBuilder",
+    "mzlp-builder:grammarDBBuilder",
+    "mzlp-builder:programDBBuilder",
+    "mzlp-builder:dialogDBBuilder",
+    "mzlp-builder:scenarioDBBuilder",
+    "mzlp-builder:promptDBBuilder",
+    "mzlp-builder:referenceDBBuilder",
+    "mzlp-builder:toggle"
+    ]
+  },
+  "repository": "https://github.com/atom/mzlp-builder",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
