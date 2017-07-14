@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "fs-finder": "^1.8.1",
+    "ncp": "^2.0.0",
     "string-to-dom": "^0.1.5"
   }
 }
