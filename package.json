@@ -16,7 +16,8 @@
       "mzlp-builder:promptDBBuilder",
       "mzlp-builder:referenceDBBuilder",
       "mzlp-builder:builderPathSettingToggle",
-      "mzlp-builder:selectLangViewToggle"
+      "mzlp-builder:selectLangViewToggle",
+      "mzlp-builder:toggle"
     ]
   },
   "repository": "https://github.com/atom/mzlp-builder",

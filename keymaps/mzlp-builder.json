@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-l": "mzlp-builder:builderPathSettingToggle",
-    "ctrl-alt-k": "mzlp-builder:selectLangViewToggle"
+    "ctrl-alt-k": "mzlp-builder:selectLangViewToggle",
+    "ctrl-alt-j": "mzlp-builder:toggle"
   }
 }
