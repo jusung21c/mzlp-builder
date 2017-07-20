@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e2b4a94-4c26-4fc7-a06d-46eef367c738" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/builder/BuilderParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/builder/IndexBuilderClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/select-detail-view.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/builder-path-setting-view.js" afterPath="$PROJECT_DIR$/lib/builder-path-setting-view.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mzlp-builder.js" afterPath="$PROJECT_DIR$/lib/mzlp-builder.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/select-lang-view.js" afterPath="$PROJECT_DIR$/lib/select-lang-view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/mzlp-builder.less" afterPath="$PROJECT_DIR$/styles/mzlp-builder.less" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,20 +28,95 @@
       <file leaf-file-name="mzlp-builder.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/mzlp-builder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="-1029">
+              <caret line="205" column="5" lean-forward="true" selection-start-line="205" selection-start-column="5" selection-end-line="205" selection-end-column="5" />
               <folding>
                 <element signature="e#14#75#0" expanded="true" />
+                <element signature="e#3726#3778#0" expanded="false" />
+                <element signature="e#3796#3847#0" expanded="false" />
+                <element signature="e#3869#3926#0" expanded="false" />
+                <element signature="e#3948#4005#0" expanded="false" />
+                <element signature="e#4026#4082#0" expanded="false" />
+                <element signature="e#4105#4163#0" expanded="false" />
+                <element signature="e#4184#4240#0" expanded="false" />
+                <element signature="e#4264#4323#0" expanded="false" />
+                <element signature="e#8388#9397#0" expanded="false" />
+                <element signature="e#9424#9460#0" expanded="false" />
+                <element signature="e#9478#9790#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="srtucture.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/srtucture.js">
+      <file leaf-file-name="BuilderParser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/builder/BuilderParser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="36">
+              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select-detail-view.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/select-detail-view.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <element signature="e#348#356#0" expanded="false" />
+                <element signature="e#373#381#0" expanded="false" />
+                <element signature="e#452#488#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mzlp-builder.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/mzlp-builder.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mzlp-builder.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keymaps/mzlp-builder.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexBuilderClass.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/builder/IndexBuilderClass.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runner-indexDB.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/runner-indexDB.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="provider.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/provider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-756">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,18 +125,8 @@
       <file leaf-file-name="builder-path-setting-view.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/builder-path-setting-view.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="249">
+              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,14 +135,21 @@
       <file leaf-file-name="select-lang-view.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/select-lang-view.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1998">
-              <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+            <state relative-caret-position="324">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -86,6 +160,13 @@
       <find>alert</find>
       <find>initial</find>
       <find>initi</find>
+      <find>switch</find>
+      <find>destor</find>
+      <find>selectedLang</find>
+      <find>swit</find>
+      <find>root</find>
+      <find>atom</find>
+      <find>detaillist</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,9 +176,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/srtucture.js" />
-        <option value="$PROJECT_DIR$/lib/select-lang-view.js" />
-        <option value="$PROJECT_DIR$/lib/mzlp-builder.js" />
         <option value="$PROJECT_DIR$/lib/builder-path-setting-view.js" />
+        <option value="$PROJECT_DIR$/lib/LexClass.js" />
+        <option value="$PROJECT_DIR$/lib/select-lang-view.js" />
+        <option value="$PROJECT_DIR$/lib/detail-select-view.js" />
+        <option value="$PROJECT_DIR$/lib/LexBuilderClass.js" />
+        <option value="$PROJECT_DIR$/lib/BuilderClass.js" />
+        <option value="$PROJECT_DIR$/lib/builder/BuilderClass.js" />
+        <option value="$PROJECT_DIR$/lib/builder/IndexBuilderClass.js" />
+        <option value="$PROJECT_DIR$/styles/mzlp-builder.less" />
+        <option value="$PROJECT_DIR$/lib/select-detail-view.js" />
+        <option value="$PROJECT_DIR$/lib/builder/BuilderParser.js" />
+        <option value="$PROJECT_DIR$/lib/mzlp-builder.js" />
       </list>
     </option>
   </component>
@@ -118,10 +208,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="110" />
-    <option name="y" value="38" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-7" />
+    <option name="width" value="1169" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,12 +238,29 @@
             <path>
               <item name="mzlp-builder" type="b2602c69:ProjectViewProjectNode" />
               <item name="mzlp-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="keymaps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mzlp-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mzlp-builder" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mzlp-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mzlp-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mzlp-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mzlp-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -164,6 +269,15 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mzlp-builder-plus" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jusun\.atom\packages\mzlp-builder\lib\builder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jusun\.atom\packages\mzlp-builder\lib\builder" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,11 +317,12 @@
       <updated>1500338091316</updated>
       <workItem from="1500338094675" duration="239000" />
       <workItem from="1500423805867" duration="17591000" />
+      <workItem from="1500509092377" duration="28783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17830000" />
+    <option name="totallyTimeSpent" value="46613000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,17 +334,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="110" y="38" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1169" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20881502" sideWeight="0.4962963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25065047" sideWeight="0.4962963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1515625" sideWeight="0.5037037" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -237,6 +350,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -265,7 +379,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -275,14 +391,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#14#75#0" expanded="true" />
+            <element signature="e#3726#3778#0" expanded="false" />
+            <element signature="e#3796#3847#0" expanded="false" />
+            <element signature="e#3869#3926#0" expanded="false" />
+            <element signature="e#3948#4005#0" expanded="false" />
+            <element signature="e#4026#4082#0" expanded="false" />
+            <element signature="e#4105#4163#0" expanded="false" />
+            <element signature="e#4184#4240#0" expanded="false" />
+            <element signature="e#4264#4323#0" expanded="false" />
+            <element signature="e#8388#9397#0" expanded="false" />
+            <element signature="e#9424#9460#0" expanded="false" />
+            <element signature="e#9478#9790#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/srtucture.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="360">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/builder-path-setting-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -303,20 +438,152 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mzlp-builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#75#0" expanded="true" />
+            <element signature="e#3726#3778#0" expanded="false" />
+            <element signature="e#3796#3847#0" expanded="false" />
+            <element signature="e#3869#3926#0" expanded="false" />
+            <element signature="e#3948#4005#0" expanded="false" />
+            <element signature="e#4026#4082#0" expanded="false" />
+            <element signature="e#4105#4163#0" expanded="false" />
+            <element signature="e#4184#4240#0" expanded="false" />
+            <element signature="e#4264#4323#0" expanded="false" />
+            <element signature="e#8388#9397#0" expanded="false" />
+            <element signature="e#9424#9460#0" expanded="false" />
+            <element signature="e#9478#9790#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/srtucture.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/runner-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/runner-indexDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/provider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keymaps/mzlp-builder.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/mzlp-builder.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/builder-path-setting-view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="249">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/select-lang-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/builder/IndexBuilderClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/select-detail-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#348#356#0" expanded="false" />
+            <element signature="e#373#381#0" expanded="false" />
+            <element signature="e#452#488#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/builder/BuilderParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/mzlp-builder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="-1029">
+          <caret line="205" column="5" lean-forward="true" selection-start-line="205" selection-start-column="5" selection-end-line="205" selection-end-column="5" />
           <folding>
             <element signature="e#14#75#0" expanded="true" />
+            <element signature="e#3726#3778#0" expanded="false" />
+            <element signature="e#3796#3847#0" expanded="false" />
+            <element signature="e#3869#3926#0" expanded="false" />
+            <element signature="e#3948#4005#0" expanded="false" />
+            <element signature="e#4026#4082#0" expanded="false" />
+            <element signature="e#4105#4163#0" expanded="false" />
+            <element signature="e#4184#4240#0" expanded="false" />
+            <element signature="e#4264#4323#0" expanded="false" />
+            <element signature="e#8388#9397#0" expanded="false" />
+            <element signature="e#9424#9460#0" expanded="false" />
+            <element signature="e#9478#9790#0" expanded="false" />
           </folding>
         </state>
       </provider>
