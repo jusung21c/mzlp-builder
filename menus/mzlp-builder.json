@@ -53,16 +53,47 @@
 
   "menu": [
     {
-      "label": "Packages",
-      "submenu": [
+      "label":"Build",
+      "submenu":[
         {
-          "label": "mzlp-script",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "mzlp-script:toggle"
-            }
-          ]
+          "label":"Builder Settings",
+          "command":"mzlp-builder:builderPathSettingToggle"
+        },
+        {
+          "label":"Table Builder",
+          "command" : "mzlp-builder:tableBuilder"
+        },
+        {
+          "label":"Index DB Builder",
+          "command" : "mzlp-builder:indexDBBuilder"
+        },
+        {
+          "label":"Lex DB Builder",
+          "command" : "mzlp-builder:lexDBBuilder"
+        },
+        {
+          "label":"Grammar DB Builder",
+          "command" : "mzlp-builder:grammarDBBuilder"
+        },
+        {
+          "label":"Program DB Builder",
+          "command" : "mzlp-builder:programDBBuilder"
+        },
+        {
+          "label":"Dialog DB Builder",
+          "command" : "mzlp-builder:dialogDBBuilder"
+        },
+        {
+          "label":"Scenario DB Builder",
+          "command" : "mzlp-builder:scenarioDBBuilder"
+        },
+        {
+          "label":"Prompt DB Builder",
+          "command" : "mzlp-builder:promptDBBuilder"
+        },
+        {
+          "label":"Reference DB Builder",
+          "command" : "mzlp-builder:referenceDBBuilder"
         }
       ]
     }
